@@ -32,3 +32,5 @@ In a new terminal window run interface:
 python run_todo_terminal.py
 ```
 That's it, enjoy :)
+![Screenshot from 2022-08-01 10-51-13](https://user-images.githubusercontent.com/68772546/182111907-e98cf7dd-c84f-441b-ab88-fa8c6496d2d1.png)
+
